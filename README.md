@@ -94,3 +94,11 @@ $ kubectl describe pod httpd-deployment-599bf897b4-m9vn5
 
 ## 삭제
 $ kubectl delete deployment nginx-deployment
+
+## 실습 3
+
+httpd-deployment.yaml, httpd-hpa.yaml, nginx-config.yaml, nginx-deployment.yaml
+
+성능 분석
+
+
